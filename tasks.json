@@ -1,0 +1,37 @@
+[
+    {
+        "description": "Приготовить еду",
+        "owner": "user1",
+        "expirationDate": "15.11.2018"
+    },
+    {
+        "description": "Вынести мусор",
+        "owner": "user1",
+        "expirationDate": "15.10.2018"
+    },
+    {
+        "description": "Покормить кота",
+        "owner": "user2",
+        "expirationDate": "07.05.2011"
+    },
+    {
+        "description": "Поубирать в квартире",
+        "owner": "user2",
+        "expirationDate": "03.01.2003"
+    },
+    {
+        "description": "Прикинуться ветошью и не отсвечивать",
+        "owner": "user2",
+        "expirationDate": "15.12.2018"
+    },
+    {
+        "description": "Подготовка к порабощению мира!",
+        "owner": "user1",
+        "expirationDate": "29.11.2018"
+    }, 
+    {
+        "description": "Разбор полетов",
+        "owner": "user2",
+        "expirationDate": "29.11.2018"
+    }
+]
